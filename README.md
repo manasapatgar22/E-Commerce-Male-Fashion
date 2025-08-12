@@ -6,7 +6,7 @@ It includes product categories, latest fashion news, and a working contact form.
 ---
 
 ## 🚀 Live Demo
-👉 [Click here to view online](https://your-live-demo-link.com)  
+👉 [Click here to view online]([https://your-live-demo-link.com](https://manasapatgar22.github.io/E-Commerce-Male-Fashion/))  
 
 💡 Works best on desktop and mobile browsers.
 
@@ -23,14 +23,6 @@ It includes product categories, latest fashion news, and a working contact form.
 
 ---
 
-## 📁 Project Structure
-/
-├── index.html # Main webpage
-├── style.css # Stylesheet
-├── script.js # JavaScript logic
-└── /images # Optional local images
----
-
 ## 🛠️ Technologies Used
 - HTML5  
 - CSS3  
@@ -45,7 +37,15 @@ It includes product categories, latest fashion news, and a working contact form.
 1. **Clone the repository**
    ```bash
    git clone https://github.com/yourusername/mens-fashion-ecommerce.git
--Open the folder
--cd mens-fashion-ecommerce
--Run locally
--Open index.html in your browser.
+- Open the folder
+- cd mens-fashion-ecommerce
+- Run locally
+- Open index.html in your browser.
+  
+## 📁 Project Structure
+/
+├── index.html # Main webpage
+├── style.css # Stylesheet
+├── script.js # JavaScript logic
+└── /images # Optional local images
+---
