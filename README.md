@@ -6,7 +6,7 @@ It includes product categories, latest fashion news, and a working contact form.
 ---
 
 ## 🚀 Live Demo
-👉 [Click here to view online]([https://your-live-demo-link.com](https://manasapatgar22.github.io/E-Commerce-Male-Fashion/))  
+👉 [Click here to view online](https://manasapatgar22.github.io/E-Commerce-Male-Fashion/) 
 
 💡 Works best on desktop and mobile browsers.
 
